@@ -1,0 +1,2 @@
+# .github
+inha-greedy repository
